@@ -104,6 +104,7 @@ Agora que você já criou seu README.md, é possível compartilhar essas informa
 6. Develop your profile: For that, you can see examples in the [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) folder and add some of the utilities available in the [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) folder;
     > **Note:** Use the other examples as inspiration, not as a copy.
 7. Add your changes to the "staging area" with the command `git add community/YOUR_USERNAME.md`;
+    > Example: `git add community/gu1lh3rm3s0rd1.md` <br>
 8. Create a commit and add a message indicating the addition of your profile `git commit -m"feat: add YOUR_USERNAME profile"`;
 9. Push the changes to your remote repository `git push origin feat/community/YOUR_USERNAME`;
 10. Create a ***Pull Request***.
@@ -124,6 +125,7 @@ Now that you have created your README.md, you can share this information with th
 6. Desarrolla tu perfil. Para eso, puedes ver ejemplos en la carpeta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) y añadir algunas de las utilidades presentes en la carpeta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils);
     > **Nota:** Usa los otros ejemplos como inspiración y no como copia.
 7. Agrega tus cambios al "área de preparación" con el comando `git add community/TU_USERNAME.md`;
+    > Ejemplo: `git add community/gu1lh3rm3s0rd1.md` <br>
 8. Crea un commit y añade un mensaje indicando la adición de tu perfil `git commit -m"feat: add TU_USERNAME profile"`;
 9. Envía los cambios a tu repositorio remoto `git push origin feat/community/TU_USERNAME`;
 10. Crea un **Pull Request**.
@@ -140,6 +142,7 @@ Now that you have created your README.md, you can share this information with th
 6. Ontwikkel je profiel: Daarvoor kun je voorbeelden in de community map bekijken en enkele van de hulpprogramma's toevoegen die beschikbaar zijn in de utils map;
     > **Opmerking:** Gebruik de andere voorbeelden als inspiratie, niet als een kopie.
 7. Voeg je wijzigingen toe aan het "staging area" met het commando git add community/YOUR_USERNAME.md;
+    > Voorbeeld: `git add community/gu1lh3rm3s0rd1.md` <br>
 8. Creëer een commit en voeg een bericht toe dat de toevoeging van je profiel aangeeft git commit -m"feat: add YOUR_USERNAME profile";
 9. Push de wijzigingen naar je externe repository git push origin feat/community/YOUR_USERNAME;
 10. Creëer een **Pull Request**.
