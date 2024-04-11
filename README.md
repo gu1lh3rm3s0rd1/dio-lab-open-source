@@ -85,7 +85,8 @@ Aprender o básico sobre contribuição no git e GitHub.
     > **Observação:** Use os outros exemplos como inspiração e não cópia.
 7. Adicione suas alterações a "staging area" com o comando `git add community/SEU_USERNAME.md`;
 8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add SEU_USERNAME profile"`;
-9. Envie as alterações para o seu repositório remoto `git push origin feat/community/SEU_USERNAME`; 
+9. Envie as alterações para o seu repositório remoto `git push origin feat/community/SEU_USERNAME`;
+    > Exemplo: `git push origin feat/community/gu1lh3rm3s0rd1` <br>
 10. Crie um **Pull Request**.
 
 #### Como atualizar seu perfil do Github usando seu arquivo README
@@ -106,6 +107,7 @@ Agora que você já criou seu README.md, é possível compartilhar essas informa
 7. Add your changes to the "staging area" with the command `git add community/YOUR_USERNAME.md`;
 8. Create a commit and add a message indicating the addition of your profile `git commit -m"feat: add YOUR_USERNAME profile"`;
 9. Push the changes to your remote repository `git push origin feat/community/YOUR_USERNAME`;
+    > Example: `git push origin feat/community/gu1lh3rm3s0rd1` <br>
 10. Create a ***Pull Request***.
 
 #### How update your Github profile using your README file
@@ -126,6 +128,7 @@ Now that you have created your README.md, you can share this information with th
 7. Agrega tus cambios al "área de preparación" con el comando `git add community/TU_USERNAME.md`;
 8. Crea un commit y añade un mensaje indicando la adición de tu perfil `git commit -m"feat: add TU_USERNAME profile"`;
 9. Envía los cambios a tu repositorio remoto `git push origin feat/community/TU_USERNAME`;
+    > Ejemplo: `git push origin feat/community/gu1lh3rm3s0rd1` <br>
 10. Crea un **Pull Request**.
 
  ##   Instructies (DT/NL)
@@ -142,6 +145,7 @@ Now that you have created your README.md, you can share this information with th
 7. Voeg je wijzigingen toe aan het "staging area" met het commando git add community/YOUR_USERNAME.md;
 8. Creëer een commit en voeg een bericht toe dat de toevoeging van je profiel aangeeft git commit -m"feat: add YOUR_USERNAME profile";
 9. Push de wijzigingen naar je externe repository git push origin feat/community/YOUR_USERNAME;
+    > Voorbeeld: `git push origin feat/community/gu1lh3rm3s0rd1` <br>
 10. Creëer een **Pull Request**.
 
 
